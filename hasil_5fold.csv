@@ -1,0 +1,4 @@
+fold,accuracy,precision,recall,f1,roc_auc
+1,0.3649,0.1331,0.3649,0.1951,0.5341
+rata-rata,0.3649,0.1331,0.3649,0.1951,0.5341
+simpangan,,,,,
