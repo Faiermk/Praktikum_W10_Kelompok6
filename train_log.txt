@@ -1,0 +1,6 @@
+Mulai : 2026-11-26 22:50:58 | komputer: Natan | PAKAI_AUG = False, EPOCH = 3, FOLDS = [1]
+=== FOLD 1: 537 gambar latih, 144 gambar validasi ===
+fold 1 | epoch   1 | train loss = 1.7089 | valid loss = 1.5968
+fold 1 | epoch   2 | train loss = 1.6322 | valid loss = 1.5674
+fold 1 | epoch   3 | train loss = 1.6210 | valid loss = 1.5757
+Selesai : 2026-11-26 22:51:08 | lama pelatihan: 0 menit 10 detik

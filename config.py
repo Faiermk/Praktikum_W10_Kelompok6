@@ -1,6 +1,6 @@
 FOLDER_ORI = "./Dataset/Original Images/Original Images/FOLDS/fold{k}"
 FOLDER_AUG = "./Dataset/Augmented Images/Augmented Images/FOLDS_AUG/fold{k}_AUG/Train"
-PAKAI_AUG = True
+PAKAI_AUG = False
 FOLDS = [1]
 JUMLAH_KELAS = 6
 UKURAN = 100
