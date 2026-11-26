@@ -1,0 +1,9 @@
+FOLDER_ORI = "./Dataset/Original Images/Original Images/FOLDS/fold{k}"
+FOLDER_AUG = "./Dataset/Augmented Images/Augmented Images/FOLDS_AUG/fold{k}_AUG/Train"
+PAKAI_AUG = True
+FOLDS = [1]
+JUMLAH_KELAS = 6
+UKURAN = 100
+BATCH_SIZE = 32
+EPOCH = 3
+LEARNING_RATE = 0.0001
